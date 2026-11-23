@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Companion Teal for the launcher icon background -->
+    <color name="ic_launcher_background">#087F78</color>
+</resources>
+

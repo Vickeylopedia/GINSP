@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple "CC" monogram as a placeholder foreground icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38.5,54 C38.5,45.7,42.8,40,50,40 C53.5,40,56,41.5,57.5,43.5 L55,46 C54,44.8,52.5,44,50.5,44 C45.5,44,43,48,43,54 C43,60,45.5,64,50.5,64 C52.5,64,54,63.2,55,62 L57.5,64.5 C56,66.5,53.5,68,50,68 C42.8,68,38.5,62.3,38.5,54 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58.5,54 C58.5,45.7,62.8,40,70,40 C73.5,40,76,41.5,77.5,43.5 L75,46 C74,44.8,72.5,44,70.5,44 C65.5,44,63,48,63,54 C63,60,65.5,64,70.5,64 C72.5,64,74,63.2,75,62 L77.5,64.5 C76,66.5,73.5,68,70,68 C62.8,68,58.5,62.3,58.5,54 Z" />
+</vector>
+
